@@ -1,4 +1,5 @@
-# 👋  Hi, I'm Ait tghrayt youssef from :Morocco:
+# Hi all, I'm Youssef 👋
+# Software Engineer 🚀 having an experience of building Web applications with JavaScript / Angular / .NET and some other cool libraries and frameworks.
 
 <p align="center"></p>
 
