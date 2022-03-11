@@ -1,5 +1,5 @@
 # Hi all, I'm Youssef 👋
-## Software Engineer 🚀 having an experience of building Web applications with JavaScript / Angular / .NET and some other cool libraries and frameworks.
+## Software Engineer 🚀 having an experience of building Web applications with .NET /JavaScript / Angular and some other cool libraries and frameworks.
 
 <p align="center"></p>
 
