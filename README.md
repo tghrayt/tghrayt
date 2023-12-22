@@ -2,9 +2,6 @@
 ## Software Engineer 🚀 from France, having an experience of building Web applications with .NET /JavaScript / Angular and some other cool libraries and frameworks.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
 <!--
 **Tghrayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -23,7 +20,7 @@ Here are some ideas to get you started:
 ✨ I’m currently learning cloud Devops
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tghrayt.tghrayt)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="tghrayt" /> </p>
 [<img alt="github" src="https://img.shields.io/badge/github-tghrayt-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/tghrayt)
 
 # ⚡ Favorite languages and tools
