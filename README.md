@@ -59,7 +59,6 @@
 
 # 📫 How to reach me
 
-<a href="https://twitter.com/Tghrayt" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Tghrayt">
 [Twitter](https://twitter.com/tghrayt), [Dev.to](https://dev.to/tghrayt), [Medium](https://medium.com/@tghrayt.ysf), [HashNode](https://hashnode.com/@tghrayt), [Linkedin](https://www.linkedin.com/in/youssef-ait-tghrayt-7418b5161), [StackOverflow](https://stackoverflow.com/users/13287381/tghrayt)
 
 
