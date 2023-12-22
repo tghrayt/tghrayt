@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="tghrayt" /> </p>
-![<img alt="github" src="https://img.shields.io/badge/github-tghrayt-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/tghrayt)
+[<img alt="github" src="https://img.shields.io/badge/github-thangchung-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/thangchung)
 
 # ⚡ Favorite languages and tools
 
