@@ -1,6 +1,7 @@
 # Hi all, I'm Youssef 👋
+<h3 align="center">A passionate FullStack Developer from France</h3>
 ## Software Engineer 🚀 having an experience of building Web applications with .NET /JavaScript / Angular and some other cool libraries and frameworks.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center"></p>
 
 <!--
