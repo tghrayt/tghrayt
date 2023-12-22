@@ -62,7 +62,7 @@
 [Twitter](https://twitter.com/tghrayt), [Dev.to](https://dev.to/tghrayt), [Medium](https://medium.com/@tghrayt.ysf), [HashNode](https://hashnode.com/@tghrayt), [Linkedin](https://www.linkedin.com/in/youssef-ait-tghrayt-7418b5161), [StackOverflow](https://stackoverflow.com/users/13287381/tghrayt)
 
 
-<a align="right" href="https://www.buymeacoffee.com/tghraytysfd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffe" style="height: 40px !important;width: 200px !important;" ></a>
-
-
+<p align="right">
+  <a align="right" href="https://www.buymeacoffee.com/tghraytysfd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffe" style="height: 40px !important;width: 200px !important;" ></a>
+</p>
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/tghrayt)
