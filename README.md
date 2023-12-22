@@ -24,8 +24,8 @@
 
 # ⚡ Favorite languages and tools
 
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/fr/b/b6/Microsoft-Azure.png"><code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"><code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/fr/b/b6/Microsoft-Azure.png"></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="32" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
