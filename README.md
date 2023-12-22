@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me
 
-[Twitter](https://twitter.com/tghrayt), [Dev.to](https://dev.to/tghrayt), [Medium](https://medium.com/@tghrayt.ysf), [HashNode](https://hashnode.com/@thangchungatwork), [Linkedin](https://www.linkedin.com/in/youssef-ait-tghrayt-7418b5161), [StackOverflow](https://stackoverflow.com/users/13287381/tghrayt), 
-<!--
+[Twitter](https://twitter.com/tghrayt), [Dev.to](https://dev.to/tghrayt), [Medium](https://medium.com/@tghrayt.ysf), [HashNode](https://hashnode.com/@tghrayt), [Linkedin](https://www.linkedin.com/in/youssef-ait-tghrayt-7418b5161), [StackOverflow](https://stackoverflow.com/users/13287381/tghrayt), 
+[<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thangchung&show_icons=true&count_private=true&theme=algolia" alt="thangchung" />
-</p> -->
+</p> -->](url)
 
 <!--
 <a href="https://www.buymeacoffee.com/thangchung" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a>
