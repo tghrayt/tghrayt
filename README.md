@@ -2,18 +2,6 @@
 ## Software Engineer 🚀 from France, having an experience of building Web applications with .NET /JavaScript / Angular and some other cool libraries and frameworks.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!--
-**Tghrayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 👯 I'm working for [Omnilog](https://www.omnilog.fr/) company.
 
@@ -26,10 +14,12 @@ Here are some ideas to get you started:
 ⚡ Fun fact I am Funny 🤡
 
 
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="tghrayt" />
 <img alt="github" src="https://img.shields.io/badge/github-tghrayt-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20" href="https://github.com/tghrayt">
 </p>
+
 
 
 # ⚡ Favorite languages and tools
