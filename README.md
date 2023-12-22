@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/3fd951e49a8e2af94627092d80c236c00df95ae3/topics/grpc/grpc.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>](url)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>]
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tghrayt&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="tghrayt" />
 
 # :octocat: Github contributions
