@@ -1,6 +1,6 @@
 # Hi all, I'm Youssef 👋
 ## Software Engineer 🚀 from France, having an experience of building Web applications with .NET /JavaScript / Angular and some other cool libraries and frameworks.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="height: 120px !important;width: 200px !important;" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="height: 320px !important;width: 400px !important;" >
 
 
 👯 I'm working for [Omnilog](https://www.omnilog.fr/) company.
