@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ✨ I’m currently learning cloud Devops
 
+💬 Ask me about .Net Or Mathematics
+
+📫 How to reach me **tghrayt.ysf@gmail.com**
+
+⚡ Fun fact I am Funny 🤡
+
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="tghrayt" />
