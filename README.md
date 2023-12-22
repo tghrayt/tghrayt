@@ -1,7 +1,9 @@
 # Hi all, I'm Youssef 👋
 ## Software Engineer 🚀 from France, having an experience of building Web applications with .NET /JavaScript / Angular and some other cool libraries and frameworks.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="center"></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <!--
 **Tghrayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
