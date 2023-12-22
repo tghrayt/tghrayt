@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 ✨ I’m currently learning cloud Devops
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="tghrayt" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=tghrayt&label=Profile%20views&color=0e75b6&style=flat" alt="tghrayt" />
 <img alt="github" src="https://img.shields.io/badge/github-tghrayt-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20" href="https://github.com/tghrayt">
+</p>
+
 
 # ⚡ Favorite languages and tools
 
