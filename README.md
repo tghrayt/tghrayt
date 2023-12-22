@@ -24,6 +24,8 @@
 
 # ⚡ Favorite languages and tools
 
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/fr/b/b6/Microsoft-Azure.png"></code>
+<code><img height="32" src="https://res.cloudinary.com/endpoint-systems/image/upload/v1517426129/dotnet_f7hivs.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="32" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
@@ -40,8 +42,7 @@
 <code><img height="32" src="https://camo.githubusercontent.com/9e245893108b5ca27e7ac3d4a802d513f657b32aa7b5765bd92df7fb55d0ed54/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667"></code>
 <code><img height="32" src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667"></code> 
 <code><img height="32" src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tghrayt&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="tghrayt" />
