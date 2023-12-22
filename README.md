@@ -55,7 +55,7 @@
 # :octocat: Github contributions
 
 <img src="https://github-readme-stats.vercel.app/api?username=tghrayt&show_icons=true&count_private=true&theme=algolia" alt="tghrayt" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" /></p>
 
 # 📫 How to reach me
 
