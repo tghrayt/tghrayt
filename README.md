@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="height: 260px !important;width: 360px !important;" >
 
 
-👯 I'm working for [Omnilog](https://www.omnilog.fr/) company.
+👯 I'm working for [Omnilog](https://www.omnilog.fr/) company
 
 ✨ I’m currently learning cloud Devops
 
