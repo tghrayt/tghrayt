@@ -135,7 +135,7 @@ I'm currently exploring and building projects around:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
 </p>
 
-<p>
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
 </p>
 
