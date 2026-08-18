@@ -134,6 +134,13 @@ I'm currently exploring and building projects around:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
 </p>
 
+<p>
+    <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
+    alt="Top Languages"
+  />
+</p>
+
 <br>
 
 # 📫 How to reach me
