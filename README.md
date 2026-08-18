@@ -121,8 +121,8 @@ I'm currently exploring and building projects around:
 
 # :octocat: Github contributions
 
-<!-- Overview - Full width -->
-<p align="left">
+<!-- Full-width profile summary -->
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tghrayt&theme=algolia"
     alt="GitHub Contributions"
@@ -130,45 +130,40 @@ I'm currently exploring and building projects around:
   />
 </p>
 
-<!-- 2 x 2 Statistics grid -->
-<table>
-  <tr>
-    <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2"
-        alt="Productive Time"
-        width="100%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
-        alt="Top Languages by Commit"
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tghrayt&theme=algolia"
-        alt="Top Languages by Repository"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Row 1 -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2"
+    alt="Productive Time"
+    width="49%"
+  />
+</p>
 
-<!-- Streak - Full width -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
+<!-- Row 2 -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
+    alt="Top Languages by Commit"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tghrayt&theme=algolia"
+    alt="Top Languages by Repository"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tghrayt&theme=react-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 <br>
