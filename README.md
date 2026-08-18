@@ -128,17 +128,14 @@ I'm currently exploring and building projects around:
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2" alt="Productive Time" />
+   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
+    alt="Top Languages"
+  />
 </p>
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
-</p>
-
-<p>
-    <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
-    alt="Top Languages"
-  />
 </p>
 
 <br>
