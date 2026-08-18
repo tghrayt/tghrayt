@@ -168,11 +168,7 @@ I'm currently exploring and building projects around:
 
 <!-- Streak - Full width -->
 <p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&theme=tokyonight"
-    alt="GitHub Streak"
-    width="100%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
 </p>
 
 <br>
