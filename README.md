@@ -121,21 +121,58 @@ I'm currently exploring and building projects around:
 
 # :octocat: Github contributions
 
+<!-- Overview - Full width -->
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tghrayt&theme=algolia" alt="GitHub Contributions" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2" alt="Productive Time" />
-   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
-    alt="Top Languages"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tghrayt&theme=algolia"
+    alt="GitHub Contributions"
+    width="100%"
   />
 </p>
 
+<!-- 2 x 2 Statistics grid -->
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tghrayt&theme=algolia"
+        alt="Top Languages by Commit"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tghrayt&theme=algolia"
+        alt="Top Languages by Repository"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak - Full width -->
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&theme=tokyonight"
+    alt="GitHub Streak"
+    width="100%"
+  />
 </p>
 
 <br>
