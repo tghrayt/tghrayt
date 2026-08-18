@@ -117,6 +117,8 @@ I'm currently exploring and building projects around:
 * 🤖 **Automation & AI-assisted workflows**
 * 📐 **Mathematics & Computer Science**
 
+<br>
+
 # :octocat: Github contributions
 
 <p align="left">
@@ -131,6 +133,8 @@ I'm currently exploring and building projects around:
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
 </p>
+
+<br>
 
 # 📫 How to reach me
 
