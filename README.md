@@ -106,17 +106,6 @@
 
 <br>
 
-#  Github contributions
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tghrayt&theme=algolia" alt="GitHub Contributions" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2" alt="Productive Time" />
-</p>
-
 # 🚀 What I'm working on
 
 I'm currently exploring and building projects around:
@@ -130,7 +119,14 @@ I'm currently exploring and building projects around:
 
 # :octocat: Github contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=tghrayt&show_icons=true&count_private=true&theme=algolia" alt="tghrayt" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tghrayt&theme=algolia" alt="GitHub Contributions" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tghrayt&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tghrayt&theme=algolia&utcOffset=2" alt="Productive Time" />
+</p>
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tghrayt&&theme=tokyonight" alt="tghrayt" />
