@@ -158,14 +158,6 @@ I'm currently exploring and building projects around:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tghrayt&theme=react-dark&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
 <br>
 
 # 📫 How to reach me
